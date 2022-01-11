@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #250B28;
+}
+
+nav a {
+    color: white;
+    background-color: #250B28
+}
+
+button i {
+    color: white;
+}
+
+ul li {
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
